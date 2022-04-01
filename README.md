@@ -57,4 +57,4 @@ Link visit Bloger[visit bloger](https://medium.com/@akshaykncp7209/masai-school-
 
 Links[visit website](https://stately-sawine-22642d.netlify.app/index.html)
 
-How to run[vdo](https://drive.google.com/file/d/146r3bOvU6ZZ9F953UB3_iPw4p1UDWxNo/view?usp=sharing)
+How to run netlify link [vdo](https://drive.google.com/file/d/146r3bOvU6ZZ9F953UB3_iPw4p1UDWxNo/view?usp=sharing)
