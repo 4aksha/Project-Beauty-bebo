@@ -49,7 +49,7 @@ if user will be choose his our item then this will be go through that parts to y
 After that you will be go through the payement part and after your payment will be succusfully and then it will be succusfully deliverd.
 
 
-source code:- (https://github.com/4aksha/Project-Beauty-bebo) our Github LInk.
+source code:- (https://github.com/4aksha/Project-Beauty-bebo/tree/main/relate%20style/index) our Github LInk.
 
 
 Link visit Bloger[visit bloger](https://medium.com/@akshaykncp7209/masai-school-beauty-bebo-project-5720fa86eb7a)
