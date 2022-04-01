@@ -1,0 +1,72 @@
+#srcgh{
+    background-color: aqua;
+    width: 400px;
+    height: 550px;
+    border: 1px solid red;
+    margin: auto;
+    border-radius: 10px;
+}
+
+#srcgh img{
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+}
+#conti{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+#excc{
+
+    display: flex;
+    justify-content: space-around;
+}
+
+#tik1,#tik4,#tik5{
+    margin-left: 40px;
+    width: 300px;
+}
+ 
+
+input{
+    width: 130px;
+    height: 20px;
+    border-radius: 5px;
+
+}
+p{
+    margin-left:80px ;
+}
+
+#inputpay{
+    display: flex;
+  
+}
+
+#inputpay p {
+margin-left: -130px;
+width: 700px;
+margin-top: 5px;
+
+}
+
+#inputpay input{
+    margin-left:-100px;
+}
+
+body{
+    background-color: black;
+}
+
+#tik6{
+    width: 200px;
+    height: 30px;
+    font-size: 25px;
+    text-align: center;
+    margin-left: 95px;
+    color: white;
+    background-color: rgb(15, 131, 54);
+    
+}
